@@ -1,4 +1,7 @@
-//% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
+/**
+ * Provides access to basic micro:bit functionality.
+ */
+//% color="#00bfff"
 namespace Hoge {
     //% blockId=hoge_show_temperature
     //% block="show|temperature $temp"
